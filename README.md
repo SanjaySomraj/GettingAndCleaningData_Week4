@@ -2,7 +2,8 @@
 This repository contains the Programming Assignment for Week 4 of Getting and Cleaning Data.
 
 NOTE: The following data files in UCI HAR sub-repo have been compressed. Please extract them to the their respective folders before running the run_analysis RScript.
-1. UCI_HAR\test\x_test.txt
+
+1. UCI_HAR\test\x_test.txt 
 2. UCI_HAR\test\x_train.txt
 
 Human Activity Recognition (HAR) database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
